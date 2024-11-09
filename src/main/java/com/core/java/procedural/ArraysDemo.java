@@ -1,4 +1,4 @@
-package com.core.java;
+package com.core.java.procedural;
 
 public class ArraysDemo {
     public static void main(String[] args) {

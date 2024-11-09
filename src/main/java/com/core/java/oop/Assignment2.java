@@ -1,0 +1,13 @@
+package com.core.java.oop;
+
+public class Assignment2 {
+    // CREATE A CLASS CALLED AS CAR
+    // ASSIGN DIFFERENT PROPERTIES
+    // CREATE AN INSTANCE OF CAR CALLED AS BMW
+    // ASSIGN PROPERTY VALUES TO BMW
+    // CREATE ANOTHER INSTANCE OF CAR CALLED AS AUDI
+    // ASSIGN PROPERTY VALUES TO AUDI
+    // OPTIONAL - DECLARE A METHOD CALLED AS STARTCAR
+    // IF CAR TYPE = "SUV" - Output - Welcome to Offroader
+    // IF CAR TYPE = "SEDAN" - Output - Welcome to racer
+}
